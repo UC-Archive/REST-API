@@ -1,0 +1,19 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "The Official UtilityClient RestAPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utility-Client/REST-API.git"
+  },
+  "author": "GamingCraft_hd",
+  "license": "Utility Client License",
+  "bugs": {
+    "url": "https://github.com/Utility-Client/REST-API/issues"
+  },
+  "homepage": "https://github.com/Utility-Client/REST-API#readme"
+}

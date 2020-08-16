@@ -1,0 +1,2 @@
+mkdir ./capes/
+mkdir ./json/

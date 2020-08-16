@@ -4,7 +4,6 @@
   "description": "The Official UtilityClient RestAPI",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/Utility-Client/REST-API/issues"
   },
-  "homepage": "https://github.com/Utility-Client/REST-API#readme"
+  "homepage": "https://github.com/Utility-Client/REST-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
 }
